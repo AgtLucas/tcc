@@ -1,3 +1,3 @@
-# tcc
+# TCC
 
 Get out, for now!
